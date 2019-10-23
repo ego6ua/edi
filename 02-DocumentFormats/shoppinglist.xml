@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ShoppingList>
-	<meat>
+	<product category="meat">
 		<product>
 			<name>ham</name>
 			<quantity unit="kg">0.5</quantity>
 		</product>
-	</meat>
-	<vegetables>
+	</product>
+	<product category="vegetables">
 		<product>
 			<name>green beans</name>
 			<quantity unit="kg">1</quantity>
@@ -15,8 +15,8 @@
 			<name>potatoes</name>
 			<quantity unit="kg">2</quantity>
 		</product>	
-	</vegetables>
-	<dairy>
+	</product>
+	<product category="dairy">
 		<product>
 			<name>cheese</name>
 			<quantity unit="kg">0.2</quantity>
@@ -25,5 +25,19 @@
 			<name>eggs</name>
 			<quantity unit="pcs">10</quantity>
 		</product>
-	</dairy>
+	</product>
+	<product category="beverages">
+		<product>
+			<name>Pepsi</name>
+			<quantity unit="1">1</quantity>
+		</product>
+		<product>
+			<name>woda</name>
+			<quantity unit="1">1</quantity>
+		</product>
+		<product>
+			<name>Coca-Cola</name>
+			<quantity unit="1">1</quantity>
+		</product>
+	</product>
 </ShoppingList>

@@ -22,4 +22,14 @@
 		<phone type="work">6660611</phone>
 		<notes>my best friend</notes>
 	</contact>
+	<contact>
+		<name>Ivan</name>
+		<name>Jan</name>
+		<surname>Kudybyn</surname>
+		<email type="personal">ivanowalska@gmail.com</email>
+		<email type="business">ivan.Kowalska@CompLand.pl</email>
+		<phone type="home">5552wew307</phone>
+		<phone type="work">6660611</phone>
+		<notes>my best friend</notes>
+	</contact>
 </contacts>
