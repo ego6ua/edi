@@ -1,42 +1,97 @@
   <films>
-        <American_Pie>
-            <title>Spider-Man</title>
-            <genre></genre>
-            <year></year>
-            <personal_rating></personal_rating>
-            <director></director>
-            <actors></actors>
-        </American_Pie>
-        <Spider Man>
-             <title></title>
-             <genre></genre>
-            <year></year>
-            <personal_rating></personal_rating>
-            <director></director>
-            <actors></actors>
-        </Spider Man>
-        <Deadpool>
-            <title></title>
-            <genre></genre>
-            <year></year>
-            <personal_rating></personal_rating>
-            <director></director>
-            <actors></actors>
-        </Deadpool>
-        <Joker>
-            <title></title>
-            <genre></genre>
-            <year></year>
-            <personal_rating></personal_rating>
-            <director></director>
-            <actors></actors>
-        </Joker>
-        <Babysiter>
-            <title></title>
-            <genre></genre>
-            <year></year>
-            <personal_rating></personal_rating>
-            <director></director>
-            <actors></actors>
-        </Babysiter>
+        <American_Pie_Band_Camp>
+            <title>American Pie: Band Camp</title>
+            <genre>Komedia</genre>
+            <year>2005</year>
+            <personal_rating>8.6</personal_rating>
+            <director>Steve Rash</director>
+            <actors>
+                <name>Tad Hilgenbrinck</name>
+                <name>Arielle Kebbel</name>
+                <name>Jason Earles</name>
+                <name>Crystle Lightning</name>
+                <name>Jun Hee Lee</name>
+                <name>Chris Owen</name>
+                <name>Eugene Levy</name>
+            </actors>
+        </American_Pie_Band_Camp>
+        <Spider-Man>
+             <title>Spider-Man: Far From Home</title>
+             <genre>fantastyka naukowa</genre>
+            <year>2019</year>
+            <personal_rating>9.5</personal_rating>
+            <director>Jon Watts</director>
+            <actors>
+                <name>Tom Holland</name>
+                <name>Samuel L. Jackson</name>
+                <name>Zendaya</name>
+                <name>Cobie Smulders</name>
+                <name>Jon Favreau</name>
+                <name>J. B. Smoove</name>
+                <name>Jacob Batalon</name>
+                <name>Martin Starr</name>
+                <name>Marisa Tomei</name>
+                <name>Jake Gyllenhaal</name>
+            </actors>
+        </Spider-Man>
+        <Avengers_Infinity_War>
+            <title>Avengers: Infinity War</title>
+            <genre>fantastyka naukowa</genre>
+            <year>2018</year>
+            <personal_rating>9.3</personal_rating>
+            <director>Anthony i Joe Russo</director>
+            <actors>
+                <name>Robert Downey Jr.</name>
+                <name>Chris Hemsworth</name>
+                <name>Mark Ruffalo</name>
+                <name>Chris Evans</name>
+                <name>Scarlett Johansson</name>
+                <name>Benedict Cumberbatch</name>
+                <name>Don Cheadle</name>
+                <name>Tom Holland</name>
+                <name>Chadwick Boseman</name>
+                <name>Paul Bettany</name>
+                <name>Elizabeth Olsen</name>
+                <name>Anthony Mackie</name>
+                <name>Sebastian Stan</name>
+                <name>Danai Gurira</name>
+                <name>Letitia Wright</name>
+                <name>Dave Bautista</name>
+                <name>Zoe Saldana</name>
+                <name>Josh Brolin</name>
+                <name>Chris Pratt</name>
+            </actors>
+        </Avengers_Infinity_War>
+        <I_Am_Legend>
+            <title>I Am Legend</title>
+            <genre>horror</genre>
+            <year>2007</year>
+            <personal_rating>8.3</personal_rating>
+            <director>Francis Lawrence</director>
+            <actors>	
+                <name>Will Smith</name>
+                <name>Alice Braga</name>
+                <name>Dash Mihok</name>
+            </actors>
+        </I_Am_Legend>
+        <Black_Panther>
+            <title>Black Panther</title>
+            <genre>fantastyka naukowa</genre>
+            <year>2018</year>
+            <personal_rating>8.6</personal_rating>
+            <director>Ryan Coogler</director>
+            <actors>
+                <name>Chadwick Boseman</name>
+                <name>Michael B. Jordan</name>
+                <name>Lupita Nyong’o</name>
+                <name>Danai Gurira</name>
+                <name>Martin Freeman</name>
+                <name>Daniel Kaluuya</name>
+                <name>Letitia Wright</name>
+                <name> Winston Duke</name>
+                <name> Angela Bassett</name>
+                <name> Forest Whitaker</name>
+                <name>Andy Serkis</name>
+</actors>
+        </Black_Panther>
     </films>
